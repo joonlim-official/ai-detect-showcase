@@ -324,7 +324,7 @@ A downloadable PDF version is available from the [paper page](https://www.aidete
 
 **Joon Lim** — Data Scientist & Engineer
 
-Previously at Meta, LinkedIn, and Google. Focused on LLM post-training, evaluation systems, and building AI-native products end-to-end.
+Currently at Meta. Previously, LinkedIn and Google. Focused on LLM post-training, evaluation systems, and building AI-native products end-to-end.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joonlim/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/joonlim-official)
