@@ -55,16 +55,6 @@ The full methodology, validation results, and technical details are published as
 
 <br/><br/>
 
-### Validation Results (Live from Production DB)
-<img src="methodology-validation.png" width="700" alt="Empirical validation results showing 86.7% precision, 91.2% recall, 88.9% F1, 90.2% accuracy" />
-
-<br/><br/>
-
-### Per-Generator Detection Rates (Dynamic Table 5)
-<img src="methodology-table5.png" width="700" alt="Per-generator detection rates with Wilson score confidence intervals, synced live from production database" />
-
-<br/><br/>
-
 ### Interactive Research Paper
 <img src="methodology-top.png" width="700" alt="Full technical methodology paper with 18 sections, table of contents, and PDF export" />
 
